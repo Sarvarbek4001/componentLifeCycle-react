@@ -1,0 +1,12 @@
+.main{
+    padding: 50px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.dark.main{
+    background-color: wheat;
+}
+.dark.main p{
+    text-decoration: line-through;
+    margin-top: 10px;
+}
